@@ -63,7 +63,7 @@ export default {
                   });
     },
     az(){
-      window.location.href="itms-services://?action=download-manifest&url=https://ipa.45z09j.cn/"
+      window.location.href=""
        this.loading = true;
        var that = this;
          setTimeout(function(){
